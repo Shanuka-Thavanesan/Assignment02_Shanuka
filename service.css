@@ -1,0 +1,174 @@
+
+.section3{
+height:50%
+}
+.section7{
+    height:30%;
+}
+.foot{
+    height:20%
+}
+/* navbar */
+.button{
+    margin-left: 5px;
+        border-radius:  115px;
+        background-color: rgb(61, 145, 213);
+    }
+    .one{
+        padding-left:20px;
+        padding-right: 350px;
+    }
+    .two{
+        padding-left:400px ;
+        font-weight: 50;
+        font-size:20px;
+       
+    }
+    #two{
+        color:rgba(60, 138, 166, 0.876);
+        font-size: 30px;
+    }
+    
+    .button2{
+        border-radius:  5px; 
+        background-color: rgb(61, 145, 213);
+    }
+    /* header */
+    .section1{
+        background-color: rgba(111, 205, 239, 0.876) ;
+    }
+    .header{
+color:aliceblue;
+text-align: right;
+padding-right: 360px;
+padding-top: 15px;
+word-spacing: 10px;
+font-size: 20px;
+    }
+   /* section2 */
+   .section2{
+    height:60%
+   }
+ img{
+    align-items:center;
+    margin:50px ;
+    width:530px;
+ }
+ #myDiv{
+    transition: width 2s, height 2s, transform 2s;
+ }
+ #myDiv:hover {
+    transform: rotate(360deg);
+  }
+ .form{
+    border:2px;
+    border-color: rgba(8, 70, 72, 0.915);
+background-color: rgba(111, 205, 239, 0.876) ;
+box-shadow: 5px 5px 5px;
+margin-top: 50px;
+font-size: large;
+height:300px ;
+color:rgba(60, 138, 166, 0.876);
+padding: 10px;
+}
+.form h4{
+    text-align: left;
+    padding-top: 15px;
+    padding-left: 24px;
+}
+.form ul{
+    font-size: large;
+    line-height:2;
+    
+}
+.div4{
+    margin-top: 20px;
+    font-size: 15px;
+    color:rgba(60, 138, 166, 0.876);
+}
+.form:hover{
+    box-shadow:inset 5px 5px 5px  rgb(46, 112, 132),
+               inset 5px 5px 5px  rgb(23, 89, 109);
+}
+.para{
+    text-align: justify;
+}
+
+/* section7 */
+.section7{
+    height: 400px;
+    margin-left: 300px;
+    padding-top: 10px;
+}
+.grid-container4 {
+    display:inline-grid;
+    grid-template-columns: auto auto auto auto auto;
+   
+}
+.grid-item3{
+    padding: 70px;
+    padding-left: 50px;
+    color:rgb(16, 148, 192)
+
+  
+}
+.social{
+    display:inline;
+    padding-right: 50px;
+   
+}
+.logo3{
+    height: 50px;
+    width:50px;
+   
+}
+
+.foot{
+    background-color: rgb(221, 247, 252);
+}
+/* footer */
+.ul1>li{
+    display:inline;
+    
+}
+
+.ul1{
+    padding:10px;
+}
+.ul1>.li2{
+    float:right;
+}
+.ul1>.li{
+    padding-left: 400px;
+}
+.li{
+    padding-left: 30px;
+}
+.li1{
+    padding-left: 500px;
+}
+.li2{
+    display: inline;
+}
+/* footer */
+.footer {
+    text-align: left;
+    /* padding: 3px; */
+    background-color: rgba(111, 205, 239, 0.876) ;
+    color: white;
+    height:50px;
+  }
+
+  
+
+    /* .line{
+        width:100%;
+        text-align: center;
+        color: rgb(17, 95, 108);
+        margin:0 auto;
+        } */
+        .img-1{
+            width: 30px;
+            height: 25px;
+        }
+    
